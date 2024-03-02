@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a7fd
 - 👀 I’m interested in Red Team
 - 🌱 I’m currently learning CyberSecurity and digital forensics
-- 💞️ I’m looking to collaborate on projects that are related to my intrests 
+- 💞️ I’m looking to collaborate on projects that are related to my interests 
 - 📫 How to reach me (https://www.linkedin.com/in/abdullah-aldohaim-9a517b292/)
   
 
